@@ -1,2 +1,2 @@
-# C-digo-C-Faculdade
+# Código-C-Faculdade
 Estudo para teste
